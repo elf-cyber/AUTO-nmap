@@ -20,6 +20,6 @@ termux!
   
  cd AUTO-nmap
  
- python AUTO_nmap.py
+ python 212177
  
  
